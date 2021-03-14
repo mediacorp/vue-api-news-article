@@ -1,0 +1,494 @@
+{
+    "node": {
+        "title": "Is S’pore ready for a female PM? Shanmugam says there are few women in leadership due to family reasons",
+        "type": "Article",
+        "next": [
+            "10727191",
+            "10728766",
+            "10729351",
+            "10729936",
+            "10731426"
+        ],
+        "next_ids_details": [
+            {
+                "nid": "10727191",
+                "type": "article",
+                "node_url": "https://www.todayonline.com/singapore/utterly-heinous-paedophile-jailed-repeatedly-raping-sexually-abusing-3-daughters-14-years",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/pexels-ekaterina-bolovtsova-6077326.jpg?itok=bQzg2YUO",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615264746",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "title": "‘Utterly heinous’: Paedophile jailed for repeatedly raping, sexually abusing his 3 daughters for 14 years",
+                "author": [
+                    {
+                        "name": "Louisa Tang",
+                        "email": "louisa.tang@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_louisa.jpg",
+                        "author_slug": "louisa_tang",
+                        "author_path": "https://www.todayonline.com/authors/louisa-tang",
+                        "term_id": "953"
+                    }
+                ],
+                "abstract": "SINGAPORE — For 14 years, a father terrorised his three young daughters by subjecting them to repeated rapes and sexual assaults.\r\n\r\n"
+            },
+            {
+                "nid": "10728766",
+                "type": "article",
+                "node_url": "https://www.todayonline.com/singapore/singapore-bubble-business-hotel-welcomes-first-guests",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/20210309_connect_changi_bubble_nuria.jpg?itok=y68kWzLx",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615277750",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "title": "Singapore 'bubble' business hotel welcomes first guests",
+                "author": [],
+                "abstract": "SINGAPORE — Singapore has launched a travel \"bubble\" business hotel that allows executives to do face-to-face meetings without a risk of exposure to the coronavirus, in one of the world's first such facilities.\r\n\r\n"
+            },
+            {
+                "nid": "10729351",
+                "type": "article",
+                "node_url": "https://www.todayonline.com/singapore/police-appeal-information-teenage-girl-missing-feb-26",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/20210309_ms_jolin_ho_may_ying.jpg?itok=lEcC-zYE",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615282119",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "title": "Police appeal for information on teenage girl missing since Feb 26",
+                "author": [],
+                "abstract": "SINGAPORE — The Singapore Police Force (SPF) is appealing for information on the whereabouts of a 16-year-old girl who has been missing since Feb 26.\r\n\r\n"
+            },
+            {
+                "nid": "10729936",
+                "type": "article",
+                "node_url": "https://www.todayonline.com/singapore/jail-maid-who-left-2-year-old-unattended-he-vomited-blood-toothbrush-stuck-his-throat",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/femcuffsistock_1_0.jpg?itok=B4H1sAxe",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615285904",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "title": "Jail for maid who left 2-year-old unattended. He vomited blood from toothbrush stuck in his throat",
+                "author": [
+                    {
+                        "name": "Louisa Tang",
+                        "email": "louisa.tang@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_louisa.jpg",
+                        "author_slug": "louisa_tang",
+                        "author_path": "https://www.todayonline.com/authors/louisa-tang",
+                        "term_id": "953"
+                    }
+                ],
+                "abstract": "SINGAPORE — When a foreign domestic worker left her employer’s two-year-old son unattended while he brushed his teeth, the toothbrush became lodged in his throat, causing him to vomit blood."
+            },
+            {
+                "nid": "10731426",
+                "type": "article",
+                "node_url": "https://www.todayonline.com/singapore/wilton-rainbow-chip-crunch-sprinkles-recalled-over-undeclared-milk",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/20210309_sfa_1.jpg?itok=zcCCQfxj",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615297354",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "title": "Wilton Rainbow Chip Crunch Sprinkles recalled over undeclared milk",
+                "author": [],
+                "abstract": "SINGAPORE — The Singapore Food Agency (SFA) has recalled Wilton Rainbow Chip Crunch Sprinkles because the packaging does not declare that the product contains an allergen — milk.\r\n\r\n"
+            }
+        ],
+        "prev": [
+            "10721871",
+            "10721326",
+            "10719966",
+            "10718741",
+            "10717636"
+        ],
+        "prev_ids_details": [
+            {
+                "nid": "10721871",
+                "type": "article",
+                "title": "New national football strategy ‘a shot in the arm’ but hurdles remain, insiders say",
+                "node_url": "https://www.todayonline.com/singapore/new-national-football-strategy-shot-arm-hurdles-remain-insiders-say",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/football_2.jpg?itok=j8ooegjc",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615221276",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "author": [
+                    {
+                        "name": "Navene Elangovan",
+                        "email": "Navene.Elangovan@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_navenenew.jpg",
+                        "author_slug": "navene_elangovan",
+                        "author_path": "https://www.todayonline.com/authors/navene-elangovan",
+                        "term_id": "27871"
+                    }
+                ],
+                "abstract": "SINGAPORE — The footballing fraternity in Singapore welcomed the Government’s latest strategy to put the country on a renewed path to qualify for the World Cup, calling its new national football project “a shot in the arm” for the sport here. Then, there are others who said that rather than being bent on reaching that target in the international arena, the drive should be more about rekindling the passion for football among the man-in-the-street."
+            },
+            {
+                "nid": "10721326",
+                "type": "article",
+                "title": "Security guard dishonestly used S$200,000 that was transferred to his bank accounts, gets jail",
+                "node_url": "https://www.todayonline.com/singapore/security-guard-dishonestly-used-s200000-was-transferred-his-bank-accounts-gets-jail",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/20210308_singapore_dollar_afp.jpg?itok=pLDHxqut",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615216811",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "author": [],
+                "abstract": "SINGAPORE — Out of the blue, a security officer began receiving sums of money in his bank accounts totalling about S$200,000.\r\n\r\n"
+            },
+            {
+                "nid": "10719966",
+                "type": "article",
+                "title": "NCMP Leong Mun Wai questions PA’s S$796 million budget, role of organisation",
+                "node_url": "https://www.todayonline.com/singapore/ncmp-leong-mun-wai-questions-pas-s796-million-budget-role-organisation",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/pa_cc.jpg?itok=9GcCy2yj",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615208432",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "author": [
+                    {
+                        "name": "Nabilah Awang",
+                        "email": "Nabilah.Awang@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_nabilah.jpg",
+                        "author_slug": "nabilah_awang",
+                        "author_path": "https://www.todayonline.com/authors/nabilah-awang",
+                        "term_id": "124446"
+                    }
+                ],
+                "abstract": "SINGAPORE — The S$796 million budget allotted to the People’s Association (PA) was called into question in Parliament on Monday (March 8), with Non-Constituency Member of Parliament (NCMP) Leong Mun Wai asking why the bulk of the organisation’s budget is used for administrative purposes. This is while its actual spending made up just 30 per cent of its allocated funds in the 2020 financial year."
+            },
+            {
+                "nid": "10718741",
+                "type": "article",
+                "title": "Sensitive issues such as wearing of tudung in uniformed services should be discussed behind closed doors: Masagos ",
+                "node_url": "https://www.todayonline.com/singapore/sensitive-issues-such-wearing-tudung-uniformed-services-should-be-discussed-behind-closed",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/masagos_faisal_720.jpg?itok=iCa--68N",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615201345",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "author": [
+                    {
+                        "name": "Nabilah Awang",
+                        "email": "Nabilah.Awang@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_nabilah.jpg",
+                        "author_slug": "nabilah_awang",
+                        "author_path": "https://www.todayonline.com/authors/nabilah-awang",
+                        "term_id": "124446"
+                    }
+                ],
+                "abstract": "SINGAPORE — Delicate issues such as the wearing of the tudung in uniformed services should be debated in closed-door consultations, Mr Masagos Zulkifli said in Parliament on Monday (March 8)."
+            },
+            {
+                "nid": "10717636",
+                "type": "article",
+                "title": "New group tackling online grooming, sexual abuse of women, girls to be formed: Sim Ann",
+                "node_url": "https://www.todayonline.com/singapore/new-group-tackling-online-grooming-sexual-abuse-women-girls-be-formed-sim-ann",
+                "node_image": "https://www.todayonline.com/sites/default/files/styles/new_app_style_optimised/public/photos/43_images/ahmed-ashhaadh-xpb2wrtrq7m-unsplash_0.jpg?itok=bnSXpbq5",
+                "node_redirect_url": null,
+                "publication_date": {
+                    "value": "1615194997",
+                    "timezone": "Asia/Kuala_Lumpur",
+                    "timezone_db": "UTC",
+                    "date_type": "datestamp"
+                },
+                "author": [
+                    {
+                        "name": "Tessa Oh",
+                        "email": "Tessa.Oh@mediacorp.com.sg",
+                        "designation": null,
+                        "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_tessa.jpg",
+                        "author_slug": "tessa_oh",
+                        "author_path": "https://www.todayonline.com/authors/tessa-oh",
+                        "term_id": "138086"
+                    }
+                ],
+                "abstract": "SINGAPORE — The authorities hope to put a lid on the online grooming of girls and sexual abuse of women on the internet, and a new group will be set up later this year to tackle such harm."
+            }
+        ],
+        "node_id": "10722616",
+        "node_url": "https://www.todayonline.com/singapore/spore-ready-female-pm-shanmugam-says-there-are-few-women-leadership-due-family-reasons",
+        "redirect_url": null,
+        "player": "bright_cove",
+        "source": "TODAY",
+        "tags": [
+            {
+                "name": "K Shanmugam",
+                "slug": "topics/k-shanmugam",
+                "menu_id": "121381",
+                "title": "K Shanmugam - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "women",
+                "slug": "topics/women",
+                "menu_id": "120676",
+                "title": "women - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "gender equality",
+                "slug": "topics/gender-equality",
+                "menu_id": "126076",
+                "title": "gender equality - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "Aware",
+                "slug": "topics/aware",
+                "menu_id": "151001",
+                "title": "Aware - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "Junie Foo",
+                "slug": "topics/junie-foo",
+                "menu_id": "195156",
+                "title": "Junie Foo - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "Corinna Lim",
+                "slug": "topics/corinna-lim",
+                "menu_id": "195161",
+                "title": "Corinna Lim - Latest news & coverage - TODAY"
+            },
+            {
+                "name": "Tommy Koh",
+                "slug": "topics/tommy-koh",
+                "menu_id": "183181",
+                "title": "Tommy Koh - Latest news & coverage - TODAY"
+            }
+        ],
+        "body": "<ul>\r\n\t<li><strong>A student asked Law Minister K Shanmugam at a forum whether Singapore is ready for a female prime minister</strong></li>\r\n\t<li><strong>He said PAP wants more women as leaders</strong></li>\r\n\t<li><strong>However, not many men, much less women, want to make the sacrifice due to the&nbsp;toll on family and work</strong></li>\r\n\t<li><strong>The question should be what society can do to encourage women to enter politics, he contended</strong></li>\r\n\t<li><strong>He and Aware executive director Corinna Lim disagree on whether gender equity is a core value in Singapore</strong></li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>SINGAPORE — There are few women in politics because&nbsp;it&nbsp;takes a toll on family life on top of one’s worklife, Law and Home Affairs Minister K Shanmugam said on Monday (March 8). He also&nbsp;debunked the notion that gender was a consideration in the picking of the country’s leaders.</p>\r\n\r\n<p>“We want more women MPs (Members of Parliament). We look actively and scour talents to see as many of them as ministers as possible,” he said, pointing out that Ms Grace Fu, Minister for Sustainability and the Environment, Manpower Minister Josephine Teo and Ms Indranee Rajah, Minister in the Prime Minister’s Office,&nbsp;are among PAP’s fourth-generation leadership.</p>\r\n\r\n<p>Mr Shanmugam was speaking as one of the panellists at a National University of Singapore (NUS) forum, which discussed issues of justice, equality and respect for women in Singapore to mark&nbsp;International Women’s Day.</p>\r\n\r\n<p>A political science student in the audience&nbsp;asked whether Singapore is ready for a prime minister who is a woman.&nbsp;She pointed out that the&nbsp;central executive committee of the ruling People’s Action Party&nbsp;(PAP), which is its top decision-making body, is made up of 16 men&nbsp;and only three women.</p>\r\n\r\n<p>In response, Mr Shanmugam related his experience from the time when he was both a practising lawyer and an MP, before he was made Cabinet minister in 2008.</p>\r\n\r\n<p>“It is an impossible task to balance your professional life with your political life because your weekends are pretty much completely taken up. If you have an active professional life, you are also spending your weekends preparing for them,” he said.</p>\r\n\r\n<p>“And then at night, three times a week, you are in your constituency. Weekends, you are in your constituency, parliamentary sessions you are juggling… it takes a toll on you, on your family life, on your work,” Mr Shanmugam added.</p>\r\n\r\n<p>“Not many men are prepared to make that sacrifice. For women, there is often the added question of the family as well.”</p>\r\n\r\n<p>He said the question should be what society can do to encourage women to enter politics.</p>\r\n\r\n<p>“It's a question of mindset change. What the Government can do is to encourage that change of mindset… but it is going to take a lot of effort,” Mr Shanmugam said.</p>\r\n\r\n<p>The forum, which was organised by NUS’ Tembusu College, was moderated by the college’s rector, Professor Tommy Koh. Other panellists included Ms Corinna Lim, executive director of the Association of Women for Action and Research (Aware), and Ms Junie Foo, president of the Singapore Council of Women’s Organisations.</p>\r\n\r\n<p><strong>IS GENDER EQUITY A CORE VALUE?</strong></p>\r\n\r\n<p>Ms Lim argued in her speech that gender equity is not a core value of Singapore in the same way that multiculturalism is, and this sparked a debate on whether that is a fair judgement.</p>\r\n\r\n<p>Prof Koh was the first to sound his disagreement, saying that one of Singapore’s secrets to success was that it educated and empowered its women to join the workforce.</p>\r\n\r\n<p>Ms Lim, however, contended that the move to educate women was very much driven by its survival needs — with people as its only resource, the Government needed everyone to contribute to the economy.</p>\r\n\r\n<p>She added that it became clear to her that gender equity was not a core value in the 1980s when founding prime minister Lee Kuan Yew remarked that he regretted giving women an education as they were not having babies.</p>\r\n\r\n<p>“If this is a core value, this would never have been said. He would never say this about multiculturalism… I think (Singapore sees it as) important, but it's not the same kind of fundamental value, and that's why it's not in our Constitution either,” Ms Lim said.</p>\r\n\r\n<p>Prof Koh and Mr Shanmugam sought to rebut this, arguing that Singapore had legislated the Women’s Charter in the 1960s, which acted to protect and advance the rights of women here.</p>\r\n\r\n<p>Mr Shanmugam said: “It was not economic. It’s about marriage. It’s about divorce. It’s about monogamy. It's about making sure that women's position in Singapore was clearly defined, supported and given legitimacy.”&nbsp;</p>\r\n\r\n<p><strong>CAN THE CONSTITUTION BE AMENDED?</strong></p>\r\n\r\n<p>Another student asked&nbsp;the law minister&nbsp;on the possibility of amending Article 12 of the Constitution, which expressly states that there shall be no discrimination against Singaporeans on the grounds of race and religion, to include gender as well.</p>\r\n\r\n<p>Mr Shanmugam said he is personally of the view that the Constitution should contain something aspirational — where the society sees itself going — and should therefore recognise equal rights of men and women.</p>\r\n\r\n<p>However, the Government is bound by the constraints of policy-making, so things are not as simple as it looks.</p>\r\n\r\n<p>Elaborating, he said: “You don't want to hurt the very people you're trying to help… There are many well-minded policies that focus on legislating to make sure that women, as well as people who are physically challenged, cannot be sacked, and you end up affecting their employment.</p>\r\n\r\n<p>“You see this in real life examples in (several) countries. So you want to help, you want to express that aspiration, but what you don't want to end up with is a lot of litigation affecting the various companies and the very economy of Singapore.”</p>\r\n\r\n<p>That would hurt Singapore’s competitiveness in comparison with&nbsp;cities such as&nbsp;Hong Kong, as it imposes a cost on investors, he said.</p>\r\n\r\n<p>“Anytime we impose on companies, we need to think about the trade-offs. When it comes to putting it in the Constitution, the question is, does it impose certain inflexibility or makes our companies and the economic sector face additional litigation on the basis of discrimination?”</p>\r\n\r\n<p>He added: “I think if you're running the economy, you will take the viewpoints. Many people in the business sector have given us feedback, which we cannot just ignore, that if you go down this route, it is going to impose a framework on them that is going to be difficult for them.”</p>\r\n",
+        "status": "Completed",
+        "author": [
+            {
+                "name": "Wong Pei Ting",
+                "email": "wongpeiting@mediacorp.com.sg",
+                "designation": null,
+                "author_image": "https://www.todayonline.com/sites/default/files/illustrated_byline_peitingnew.jpg",
+                "author_slug": "wong_pei_ting",
+                "author_path": "https://www.todayonline.com/authors/wong-pei-ting",
+                "term_id": "67106"
+            }
+        ],
+        "section": [
+            {
+                "name": "Singapore",
+                "slug": "singapore",
+                "menu_id": "3"
+            }
+        ],
+        "opinion": [],
+        "external_author": null,
+        "short_title": "Is S’pore ready for a female PM? Shanmugam says there are few women in leadership due to family reasons",
+        "quote": "",
+        "quote_name": "",
+        "bullet_tags": [
+            "",
+            "",
+            ""
+        ],
+        "abstract": "SINGAPORE — There are few women in politics because it takes a toll on family life on top of one’s worklife, Law and Home Affairs Minister K Shanmugam said on Monday (March 8). He also debunked the notion that gender was a consideration in the picking of the country’s leaders.",
+        "show_abstract": "0",
+        "hero": {
+            "type": "photo",
+            "obj": [
+                {
+                    "sizes": {
+                        "original": "https://www.todayonline.com/sites/default/files/photos/43_images/tembusu.png",
+                        "optimised": "https://www.todayonline.com/sites/default/files/styles/new_app_article_detail/public/photos/43_images/tembusu.png?itok=SfCXVSoq",
+                        "thumbnail": "https://www.todayonline.com/sites/default/files/styles/thumbnail/public/photos/43_images/tembusu.png?itok=8dn7ZZrv"
+                    },
+                    "author": "Tembusu College",
+                    "node_id": "10722466",
+                    "title": "Tembusu panel",
+                    "publication_date": {
+                        "value": "1615224599",
+                        "timezone": "Asia/Kuala_Lumpur",
+                        "timezone_db": "UTC",
+                        "date_type": "datestamp"
+                    },
+                    "url": "https://www.todayonline.com/content/tembusu-panel",
+                    "alt": "",
+                    "desc": "Panel at Tembusu College's forum (from left): Aware executive director Corinna Lim, Law and Home Affairs Minister K Shanmugam, college rector Tommy Koh and Ms Junie Foo, president of the Singapore Council of Women’s Organisations.",
+                    "subtitle": ""
+                }
+            ]
+        },
+        "publication_date": {
+            "value": "1615226888",
+            "timezone": "Asia/Kuala_Lumpur",
+            "timezone_db": "UTC",
+            "date_type": "datestamp"
+        },
+        "updated_date": {
+            "value": "1615231915",
+            "timezone": "Asia/Kuala_Lumpur",
+            "timezone_db": "UTC",
+            "date_type": "datestamp"
+        },
+        "sponsor": [
+            {
+                "left": [],
+                "right": []
+            }
+        ],
+        "related": [
+            {
+                "nid": "10717636",
+                "title": "New group tackling online grooming, sexual abuse of women, girls to be formed: Sim Ann",
+                "url": "https://www.todayonline.com/singapore/new-group-tackling-online-grooming-sexual-abuse-women-girls-be-formed-sim-ann?cid=h3_referral_inarticlelinks_03092019_todayonline",
+                "section": [
+                    {
+                        "tid": "3",
+                        "slug": "singapore",
+                        "name": "Singapore"
+                    }
+                ]
+            },
+            {
+                "nid": "10715116",
+                "title": "Overcoming the challenges women face in the wake of Covid-19 and digital disruption",
+                "url": "https://www.todayonline.com/commentary/overcoming-challenges-women-face-wake-covid-19-and-digital-disruption?cid=h3_referral_inarticlelinks_03092019_todayonline",
+                "section": [
+                    {
+                        "tid": "102",
+                        "slug": "commentary",
+                        "name": "Commentary"
+                    }
+                ]
+            },
+            {
+                "nid": "10688226",
+                "title": "Aware, lawyers welcome clarity that academic potential of sexual offenders ‘should not carry much weight’ in court",
+                "url": "https://www.todayonline.com/singapore/aware-lawyers-welcome-clarity-academic-potential-sexual-offenders-should-not-carry-much?cid=h3_referral_inarticlelinks_03092019_todayonline",
+                "section": [
+                    {
+                        "tid": "3",
+                        "slug": "singapore",
+                        "name": "Singapore"
+                    }
+                ]
+            },
+            {
+                "nid": "10642596",
+                "title": " No religious group favoured in policymaking by civil servants as Govt insists on secular approach: Shanmugam",
+                "url": "https://www.todayonline.com/singapore/no-religious-group-favoured-policymaking-civil-servants-govt-insists-secular-approach?cid=h3_referral_inarticlelinks_03092019_todayonline",
+                "section": [
+                    {
+                        "tid": "3",
+                        "slug": "singapore",
+                        "name": "Singapore"
+                    }
+                ]
+            }
+        ],
+        "canonical_url": null,
+        "published": true,
+        "cia_info": [
+            {
+                "person": {
+                    "word": [
+                        "K Shanmugam",
+                        "Corinna Lim"
+                    ],
+                    "weight": [
+                        0.119069,
+                        0.000802
+                    ]
+                },
+                "location": {
+                    "word": [
+                        "Singapore"
+                    ],
+                    "weight": [
+                        0.879804
+                    ]
+                },
+                "keyword": {
+                    "word": [
+                        "gender"
+                    ],
+                    "weight": [
+                        0.990069
+                    ]
+                },
+                "phrase": {
+                    "word": [],
+                    "weight": []
+                },
+                "organization": {
+                    "word": [],
+                    "weight": []
+                },
+                "misc": {
+                    "word": [],
+                    "weight": []
+                },
+                "iab_tier1": {
+                    "code": [
+                        "taxo_015",
+                        "taxo_004"
+                    ],
+                    "name": [
+                        "news and politics",
+                        "education"
+                    ],
+                    "weight": [
+                        0.643035,
+                        0.356965
+                    ]
+                },
+                "iab_tier2": {
+                    "code": [
+                        "taxo_057",
+                        "taxo_211",
+                        "taxo_206"
+                    ],
+                    "name": [
+                        "education",
+                        "politics",
+                        "law"
+                    ],
+                    "weight": [
+                        0.356965,
+                        0.347107,
+                        0.295928
+                    ]
+                }
+            }
+        ],
+        "unpublish_on": "NULL"
+    }
+}

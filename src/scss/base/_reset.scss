@@ -1,0 +1,12 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 375px;
+
+    @media only screen and (max-width: $screen-sm) {
+        margin-bottom: 600px;
+    }
+}

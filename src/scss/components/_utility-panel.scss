@@ -1,0 +1,17 @@
+.utility-panel {
+    position: fixed;
+    bottom: 50px;
+    right: 0;
+
+    .panelbtn {
+        padding: 5px 9.5px;
+        background-color: rgb(224, 224, 224, 0.8);
+        margin-bottom: 1px;
+        cursor: pointer;
+
+        &:hover {
+            background-color: $text-body;
+            color: $white;
+        }
+    }
+}

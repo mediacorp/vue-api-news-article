@@ -1,0 +1,176 @@
+
+.main-article {
+    padding-top: 145px;
+
+    .main-article-headline {
+        border-bottom: 1px solid $off-white;
+
+        &-title {
+            font-family: $font-heading;
+            font-weight: 700;
+            font-size: 36px;
+            width: 90%;
+            margin-bottom: 15px;
+        }
+    }
+
+    // main article details - after title
+    .main-article-details {
+        padding-top: 15px;
+        padding-bottom: 15px;
+
+        .main-article-byline {
+            display: inline-block;
+
+            .today-author {
+                display: flex;
+                align-items: center;
+                font-size: 15px;
+
+                .today-author-image {
+                    display: inline-block;
+                    background-size: cover;
+                    background-position: 50%;
+                    border-radius: 50%;
+                    width: 60px;
+                    height: 60px;
+                    margin-right: 10px;
+                }
+            }
+
+            .today-author-by {
+                margin-right: 5px;
+                font-style: italic;
+                font-weight: 400;
+            }
+
+            .today-author-name {
+                a {
+                    color: $text-body;
+                    font-weight: 700;
+                    text-transform: uppercase;
+
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+
+        .main-article-dates {
+            float: right;
+            text-align: right;
+            font-size: 14px;
+        }
+    }
+
+    .main-article-hero {
+        .today-hero-photo-figure {
+            margin-bottom: 5px;
+
+            .today-hero-photo-wrapper {
+                position: relative;
+
+                .photo-author {
+                    background-color: rgba(0, 0, 0, 0.5);
+                    color: rgb(245, 245, 245);
+                    padding: 5px;
+                    font-size: 14px;
+                    font-weight: 400;
+                    position: absolute;
+                    bottom: 0;
+                    right: 0;
+                }
+            }
+        }
+
+        .today-hero-photo-desc {
+            .photo-desc {
+                color: $text-grey;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        }
+
+        .today-hero-photo {
+            width: 100%;
+        }
+    }
+
+    .main-article-body {
+        display: flex;
+
+        @media only screen and (max-width: $screen-md) {
+            display: block;
+        }
+
+        .main-article-content {
+            margin-top: 50px;
+        }
+
+        .read-also-container {
+            margin-top: 200px;
+
+            @media only screen and (max-width: $screen-md) {
+                margin-top: 10px;
+            }
+
+            .read-also {
+                background-color: $grey-bg;
+                margin-left: 20px;
+                margin-bottom: 200px;
+                padding: 12px;
+                color: $primary;
+
+                @media only screen and (max-width: $screen-md) {
+                    margin-left: 0;
+                    margin-bottom: 25px;
+                }
+
+                .read-also-label {
+                    text-transform: uppercase;
+                    font-size: 16px;
+                    font-weight: 700;
+                }
+
+                a {
+                    font-size: 16px;
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+
+    .main-article-tags {
+        margin-top: 25px;
+        margin-bottom: 50px;
+        text-transform: uppercase;
+
+        .tags-title {
+            font-weight: 600;
+            margin-bottom: 7.5px;
+        }
+
+        .tags-list {
+            display: inline;
+
+            &::after {
+                content: "|";
+                margin-left: 10px;
+                margin-right: 10px;
+            }
+
+            &:last-child {
+                &::after {
+                content: "";
+                }
+            }
+
+            .tags-label {
+                color: $secondary;
+            }
+        }
+    }
+}

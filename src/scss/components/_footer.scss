@@ -1,0 +1,108 @@
+.today-footer {
+    background: $footer-bg;
+    color: $body-bg;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 375px;
+    padding-top: 30px;
+
+    @media only screen and (max-width: $screen-sm) {
+        height: 600px;
+    }
+
+    .today-footer-heading {
+        font-size: 16px;
+        font-weight: 700;
+        text-transform: uppercase;
+    }
+
+    .today-footer-section {
+        .today-footer-section-listing {
+            padding-bottom: 10px;
+
+            ul {
+                padding-left: 0;
+                columns: 2;
+                -webkit-columns: 2;
+                -moz-columns: 2;
+
+                li {
+                    list-style: none;
+
+                    a {
+                        color: $white;
+
+                        &:hover {
+                            text-decoration: none;
+                            color: $primary;
+                        }
+
+                        &.active {
+                            color: $primary;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .today-footer-copy {
+        @media only screen and (max-width: $screen-sm) {
+            display: none;
+        }
+
+        hr {
+            border-top: 1px solid $off-white;
+            margin-bottom: 30px;
+        }
+
+        .today-footer-copy-text {
+            float: right;
+            font-size: 11px;
+            font-weight: 600;
+            margin-top: 5px;
+        }
+    }
+
+    .today-footer-social {
+        a {
+            color: $white;
+
+            svg {
+                font-size: 24px;
+                margin-right: 15px;
+            }
+        }
+    }
+
+    .today-footer-download {
+        padding-top: 40px;
+
+        .today-footer-download-badge {
+            width: 138px;
+            height: 40px;
+            margin-right: 10px;
+            margin-bottom: 10px;
+        }
+    }
+
+    .today-footer-copy-mobile {
+        display: none;
+
+        @media only screen and (max-width: $screen-sm) {
+            display: block;
+        }
+
+        hr {
+            border-top: 1px solid $off-white;
+            margin-bottom: 30px;
+        }
+
+        .today-footer-copy-text {
+            font-size: 11px;
+            font-weight: 600;
+            margin-top: 10px;
+        }
+    }
+}

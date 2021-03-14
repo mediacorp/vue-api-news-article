@@ -21,6 +21,7 @@
 
             @media only screen and (max-width: $screen-md) {
                 order: 1;
+                padding: 0 0 0 0;
             }
 
             .read-next-cta {
@@ -43,6 +44,10 @@
                     font-size: 12px;
                     font-weight: 600;
                     text-transform: uppercase;
+
+                    @media only screen and (max-width: $screen-md) {
+                        margin-right: 0;
+                    }
 
                     &:hover {
                         text-decoration: none;

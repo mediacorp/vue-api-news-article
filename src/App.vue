@@ -25,11 +25,6 @@ export default {
   title() {
     return `Today Online`;
   },
-  data() {
-    return {
-      audioElement: null,
-    };
-  },
   computed: {
     ...mapState(["contents"]),
   },

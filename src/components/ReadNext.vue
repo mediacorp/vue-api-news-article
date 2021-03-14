@@ -7,7 +7,7 @@
         v-for="(readnext, index) in content.next_ids_details"
         :key="index"
       >
-        <div class="read-next-listing-details col-md-8">
+        <div class="read-next-listing-details col-lg-8">
           <h4>{{ readnext.title }}</h4>
           <p>{{ readnext.abstract }}</p>
           <div class="read-next-cta">
@@ -28,7 +28,7 @@
             /></a>
           </div>
         </div>
-        <div class="read-next-listing-image col-md-4">
+        <div class="read-next-listing-image col-lg-4">
           <img :src="readnext.node_image" class="img-fluid" />
         </div>
       </div>

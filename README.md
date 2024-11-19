@@ -1,4 +1,7 @@
-# News Article Page: Using Vue.js to work with API
+# Important Note
+Transferred this repository from my account to Mediacorp Git account to test on transferring for Wondershop related task
+
+### News Article Page: Using Vue.js to work with API
 This is the repository created by Jas Sta. Ana for a single page application created using Vue.js that reads the API and displays it in a news article format. This is built with libraries such as Bootstrap and Font Awesome. To display the API, local data was used (to approach the CORS issue encounted) with Axios.
 
 ### Steps to build and execute
